@@ -5,9 +5,18 @@ table sheet by flask
 * templates/index.html
 * app.py
 
-### how to run
+### how to run as flask
 * export FLASK_APP=app.py
 * export FLASK_ENV=development
 * flask run
+
+---
+
+### place files like this
+* index.php
+
+### how to run as php
+* php -S localhost:8000
+* open index.php
 
 

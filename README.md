@@ -1,5 +1,7 @@
 # tz_flask_20230305_record
-table sheet by flask
+8*8 table sheet by flask
+
+---
 
 ### place files like this
 * templates/index.html
@@ -19,4 +21,4 @@ table sheet by flask
 * php -S localhost:8000
 * open index.php
 
-
+---
